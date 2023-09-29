@@ -38,15 +38,5 @@
 - ![vsc](https://github.com/dmrozik87/dmrozik87/assets/116550191/3fa189a4-f668-4143-9013-1725e56c722e) Visual Studio Code
 - ![trello](https://github.com/dmrozik87/dmrozik87/assets/116550191/3ea1d844-a5af-42e8-a821-f19a10343c4d) Trello
 
-
-
-
-
-
-
-
-
-
-
 ## 🔥 Statistics :
 ![codewars](https://github.com/dmrozik87/dmrozik87/assets/116550191/fb72715f-1879-445a-8059-2276bb3cc027)
